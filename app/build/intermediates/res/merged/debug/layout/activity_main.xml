@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context="com.example.android.tenniscounterapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/Player"
+                    android:text="@string/playerA" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/Sets_Games"
+                        android:text="@string/sets" />
+
+                    <TextView
+                        style="@style/Sets_Games"
+                        android:text="@string/games" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/player_a_sets"
+                        style="@style/Sets_Games_Score"
+                        android:text="@string/zero" />
+
+                    <TextView
+                        android:id="@+id/player_a_games"
+                        style="@style/Sets_Games_Score"
+                        android:text="@string/zero"/>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/player_a_score"
+                    style="@style/Points_Score"
+                    android:text="@string/zero" />
+
+                <Button
+                    style="@style/Point_Button"
+                    android:onClick="addPointForPlayerA"
+                    android:text="@string/point" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="16dp"
+                android:background="#616161" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/Player"
+                    android:text="@string/playerB" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/Sets_Games"
+                        android:text="@string/sets" />
+
+                    <TextView
+                        style="@style/Sets_Games"
+                        android:text="@string/games" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/player_b_sets"
+                        style="@style/Sets_Games_Score"
+                        android:text="@string/zero" />
+
+                    <TextView
+                        android:id="@+id/player_b_games"
+                        style="@style/Sets_Games_Score"
+                        android:text="@string/zero" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/player_b_score"
+                    style="@style/Points_Score"
+                    android:text="@string/zero" />
+
+                <Button
+                    style="@style/Point_Button"
+                    android:onClick="addPointForPlayerB"
+                    android:text="@string/point" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button"
+            style="@style/New_Game_Button"
+            android:onClick="resetScore"
+            android:text="New Game" />
+
+    </LinearLayout>
+
+</ScrollView>

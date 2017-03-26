@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#d21919</item>
+        <item name="colorPrimaryDark">#1877A5</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#1877A5</item>
+        <item name="colorAccent">#264D7C</item>
+    </style>
+
+    <style name="Player">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name= "android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Sets_Games">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Sets_Games_Score">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Points_Score">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">52sp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Point_Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@color/textColorButton</item>
+    </style>
+
+    <style name="New_Game_Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">48dp</item>
+        <item name="android:layout_marginTop">60dp</item>
+        <item name="android:textColor">@color/textColorButton</item>
+    </style>
+
+</resources>

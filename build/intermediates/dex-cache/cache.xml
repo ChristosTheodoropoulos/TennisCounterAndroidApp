@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c76d8ab12f704b00d8f65b23c0c9314e5fd312c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c6c38f7bc4ad2fc2f097264ceba5999e615833f">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b3b4c5b940ae2182f6a51a679bfc67db0450b70/classes.dex" />
+    </item>
+
+</items>

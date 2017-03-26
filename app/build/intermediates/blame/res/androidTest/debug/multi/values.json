@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/a18dc87a3eb3d12b7ae98e337e1392e482123dea/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
