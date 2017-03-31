@@ -24,9 +24,9 @@
                 android:layout_weight="1"
                 android:orientation="vertical">
 
-                <TextView
+                <EditText
                     style="@style/Player"
-                    android:text="@string/playerA" />
+                    android:hint="@string/playerA" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -84,9 +84,9 @@
                 android:layout_weight="1"
                 android:orientation="vertical">
 
-                <TextView
+                <EditText
                     style="@style/Player"
-                    android:text="@string/playerB" />
+                    android:hint="@string/playerB" />
 
 
                 <LinearLayout
