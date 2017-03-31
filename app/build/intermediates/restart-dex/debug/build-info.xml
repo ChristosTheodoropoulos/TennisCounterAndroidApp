@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1490998680902"
+    timestamp="1490999032769"
     token="4359255102500060958"
     verifier="COMPATIBLE" >
 
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1490998680902"
+        timestamp="1490999032769"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"

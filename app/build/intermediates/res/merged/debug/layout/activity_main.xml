@@ -24,7 +24,7 @@
                 android:layout_weight="1"
                 android:orientation="vertical">
 
-                <EditText
+                <TextView
                     style="@style/Player"
                     android:hint="@string/playerA" />
 
@@ -84,7 +84,7 @@
                 android:layout_weight="1"
                 android:orientation="vertical">
 
-                <EditText
+                <TextView
                     style="@style/Player"
                     android:hint="@string/playerB" />
 

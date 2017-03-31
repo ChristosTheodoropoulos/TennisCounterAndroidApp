@@ -5186,9 +5186,9 @@
                     "startLine": 1590,
                     "startColumn": 4,
                     "startOffset": 116639,
-                    "endLine": 1602,
+                    "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 117335
+                    "endOffset": 117205
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/src/main/res/values/styles.xml",
@@ -5196,20 +5196,20 @@
                         "startLine": 13,
                         "startColumn": 4,
                         "startOffset": 528,
-                        "endLine": 25,
+                        "endLine": 23,
                         "endColumn": 12,
-                        "endOffset": 1225
+                        "endOffset": 1095
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 1603,
+                    "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 117340,
-                    "endLine": 1611,
+                    "startOffset": 117210,
+                    "endLine": 1609,
                     "endColumn": 12,
-                    "endOffset": 117810
+                    "endOffset": 117680
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/src/main/res/values/styles.xml"
@@ -5217,25 +5217,38 @@
             },
             {
                 "to": {
-                    "startLine": 1612,
+                    "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 117815,
-                    "endLine": 1621,
+                    "startOffset": 117685,
+                    "endLine": 1619,
                     "endColumn": 12,
-                    "endOffset": 118332
+                    "endOffset": 118202
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1620,
+                    "startColumn": 4,
+                    "startOffset": 118207,
+                    "endLine": 1621,
+                    "endColumn": 12,
+                    "endOffset": 118315
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 118337,
-                    "endLine": 1623,
+                    "startOffset": 118320,
+                    "endLine": 1625,
                     "endColumn": 12,
-                    "endOffset": 118445
+                    "endOffset": 118544
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5243,12 +5256,12 @@
             },
             {
                 "to": {
-                    "startLine": 1624,
+                    "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 118450,
-                    "endLine": 1627,
+                    "startOffset": 118549,
+                    "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 118674
+                    "endOffset": 118704
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5256,12 +5269,12 @@
             },
             {
                 "to": {
-                    "startLine": 1628,
+                    "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 118679,
-                    "endLine": 1630,
+                    "startOffset": 118709,
+                    "endLine": 1631,
                     "endColumn": 12,
-                    "endOffset": 118834
+                    "endOffset": 118856
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5269,12 +5282,12 @@
             },
             {
                 "to": {
-                    "startLine": 1631,
+                    "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 118839,
-                    "endLine": 1633,
+                    "startOffset": 118861,
+                    "endLine": 1634,
                     "endColumn": 12,
-                    "endOffset": 118986
+                    "endOffset": 119027
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5282,12 +5295,12 @@
             },
             {
                 "to": {
-                    "startLine": 1634,
+                    "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 118991,
-                    "endLine": 1636,
+                    "startOffset": 119032,
+                    "endLine": 1637,
                     "endColumn": 12,
-                    "endOffset": 119157
+                    "endOffset": 119194
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5295,12 +5308,12 @@
             },
             {
                 "to": {
-                    "startLine": 1637,
+                    "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 119162,
-                    "endLine": 1639,
+                    "startOffset": 119199,
+                    "endLine": 1641,
                     "endColumn": 12,
-                    "endOffset": 119324
+                    "endOffset": 119437
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5308,12 +5321,12 @@
             },
             {
                 "to": {
-                    "startLine": 1640,
+                    "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 119329,
-                    "endLine": 1643,
+                    "startOffset": 119442,
+                    "endLine": 1644,
                     "endColumn": 12,
-                    "endOffset": 119567
+                    "endOffset": 119607
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5321,12 +5334,12 @@
             },
             {
                 "to": {
-                    "startLine": 1644,
+                    "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 119572,
-                    "endLine": 1646,
+                    "startOffset": 119612,
+                    "endLine": 1647,
                     "endColumn": 12,
-                    "endOffset": 119737
+                    "endOffset": 119780
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5334,12 +5347,12 @@
             },
             {
                 "to": {
-                    "startLine": 1647,
+                    "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 119742,
-                    "endLine": 1649,
+                    "startOffset": 119785,
+                    "endLine": 1650,
                     "endColumn": 12,
-                    "endOffset": 119910
+                    "endOffset": 119951
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5347,12 +5360,12 @@
             },
             {
                 "to": {
-                    "startLine": 1650,
+                    "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 119915,
-                    "endLine": 1652,
+                    "startOffset": 119956,
+                    "endLine": 1654,
                     "endColumn": 12,
-                    "endOffset": 120081
+                    "endOffset": 120225
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5360,12 +5373,12 @@
             },
             {
                 "to": {
-                    "startLine": 1653,
+                    "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 120086,
-                    "endLine": 1656,
+                    "startOffset": 120230,
+                    "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 120355
+                    "endOffset": 120424
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5373,12 +5386,12 @@
             },
             {
                 "to": {
-                    "startLine": 1657,
+                    "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 120360,
-                    "endLine": 1659,
+                    "startOffset": 120429,
+                    "endLine": 1661,
                     "endColumn": 12,
-                    "endOffset": 120554
+                    "endOffset": 120629
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5386,12 +5399,12 @@
             },
             {
                 "to": {
-                    "startLine": 1660,
+                    "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 120559,
-                    "endLine": 1663,
+                    "startOffset": 120634,
+                    "endLine": 1665,
                     "endColumn": 12,
-                    "endOffset": 120759
+                    "endOffset": 120959
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5399,25 +5412,12 @@
             },
             {
                 "to": {
-                    "startLine": 1664,
+                    "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 120764,
-                    "endLine": 1667,
+                    "startOffset": 120964,
+                    "endLine": 1676,
                     "endColumn": 12,
-                    "endOffset": 121089
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1668,
-                    "startColumn": 4,
-                    "startOffset": 121094,
-                    "endLine": 1678,
-                    "endColumn": 12,
-                    "endOffset": 121649
+                    "endOffset": 121519
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/src/main/res/values/styles.xml"
@@ -5425,24 +5425,48 @@
             },
             {
                 "to": {
-                    "startLine": 1679,
+                    "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 121654,
-                    "endLine": 1689,
+                    "startOffset": 121524,
+                    "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 122214
+                    "endOffset": 122084
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1688,
+                    "startColumn": 4,
+                    "startOffset": 122089,
+                    "endColumn": 83,
+                    "endOffset": 122168
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1689,
+                    "startColumn": 4,
+                    "startOffset": 122173,
+                    "endColumn": 95,
+                    "endOffset": 122264
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 122219,
-                    "endColumn": 83,
-                    "endOffset": 122298
+                    "startOffset": 122269,
+                    "endColumn": 95,
+                    "endOffset": 122360
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5452,9 +5476,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 122303,
-                    "endColumn": 95,
-                    "endOffset": 122394
+                    "startOffset": 122365,
+                    "endColumn": 97,
+                    "endOffset": 122458
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5464,9 +5488,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 122399,
-                    "endColumn": 95,
-                    "endOffset": 122490
+                    "startOffset": 122463,
+                    "endColumn": 99,
+                    "endOffset": 122558
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5476,9 +5500,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 122495,
-                    "endColumn": 97,
-                    "endOffset": 122588
+                    "startOffset": 122563,
+                    "endColumn": 101,
+                    "endOffset": 122660
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5488,9 +5512,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 122593,
-                    "endColumn": 99,
-                    "endOffset": 122688
+                    "startOffset": 122665,
+                    "endColumn": 101,
+                    "endOffset": 122762
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5500,9 +5524,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 122693,
+                    "startOffset": 122767,
                     "endColumn": 101,
-                    "endOffset": 122790
+                    "endOffset": 122864
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5512,9 +5536,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 122795,
+                    "startOffset": 122869,
                     "endColumn": 101,
-                    "endOffset": 122892
+                    "endOffset": 122966
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5524,9 +5548,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 122897,
+                    "startOffset": 122971,
                     "endColumn": 101,
-                    "endOffset": 122994
+                    "endOffset": 123068
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5536,9 +5560,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 122999,
-                    "endColumn": 101,
-                    "endOffset": 123096
+                    "startOffset": 123073,
+                    "endColumn": 99,
+                    "endOffset": 123168
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5548,9 +5572,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 123101,
-                    "endColumn": 101,
-                    "endOffset": 123198
+                    "startOffset": 123173,
+                    "endColumn": 95,
+                    "endOffset": 123264
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5560,9 +5584,9 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 123203,
-                    "endColumn": 99,
-                    "endOffset": 123298
+                    "startOffset": 123269,
+                    "endColumn": 111,
+                    "endOffset": 123376
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5572,9 +5596,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 123303,
-                    "endColumn": 95,
-                    "endOffset": 123394
+                    "startOffset": 123381,
+                    "endColumn": 128,
+                    "endOffset": 123505
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5584,9 +5608,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 123399,
-                    "endColumn": 111,
-                    "endOffset": 123506
+                    "startOffset": 123510,
+                    "endColumn": 122,
+                    "endOffset": 123628
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5596,9 +5620,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 123511,
-                    "endColumn": 128,
-                    "endOffset": 123635
+                    "startOffset": 123633,
+                    "endColumn": 130,
+                    "endOffset": 123759
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5608,9 +5632,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 123640,
-                    "endColumn": 122,
-                    "endOffset": 123758
+                    "startOffset": 123764,
+                    "endColumn": 130,
+                    "endOffset": 123890
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5620,9 +5644,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 123763,
-                    "endColumn": 130,
-                    "endOffset": 123889
+                    "startOffset": 123895,
+                    "endColumn": 97,
+                    "endOffset": 123988
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5632,9 +5656,9 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 123894,
-                    "endColumn": 130,
-                    "endOffset": 124020
+                    "startOffset": 123993,
+                    "endColumn": 113,
+                    "endOffset": 124102
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5644,9 +5668,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 124025,
-                    "endColumn": 97,
-                    "endOffset": 124118
+                    "startOffset": 124107,
+                    "endColumn": 93,
+                    "endOffset": 124196
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5656,34 +5680,10 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 124123,
-                    "endColumn": 113,
-                    "endOffset": 124232
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1709,
-                    "startColumn": 4,
-                    "startOffset": 124237,
-                    "endColumn": 93,
-                    "endOffset": 124326
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1710,
-                    "startColumn": 4,
-                    "startOffset": 124331,
-                    "endLine": 1713,
+                    "startOffset": 124201,
+                    "endLine": 1711,
                     "endColumn": 12,
-                    "endOffset": 124525
+                    "endOffset": 124395
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5691,12 +5691,36 @@
             },
             {
                 "to": {
-                    "startLine": 1714,
+                    "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 124530,
-                    "endLine": 1717,
+                    "startOffset": 124400,
+                    "endLine": 1715,
                     "endColumn": 12,
-                    "endOffset": 124729
+                    "endOffset": 124599
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1716,
+                    "startColumn": 4,
+                    "startOffset": 124604,
+                    "endColumn": 68,
+                    "endOffset": 124668
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1717,
+                    "startColumn": 4,
+                    "startOffset": 124673,
+                    "endColumn": 115,
+                    "endOffset": 124784
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5706,9 +5730,9 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 124734,
-                    "endColumn": 68,
-                    "endOffset": 124798
+                    "startOffset": 124789,
+                    "endColumn": 127,
+                    "endOffset": 124912
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5718,9 +5742,9 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 124803,
-                    "endColumn": 115,
-                    "endOffset": 124914
+                    "startOffset": 124917,
+                    "endColumn": 63,
+                    "endOffset": 124976
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5730,34 +5754,10 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 124919,
-                    "endColumn": 127,
-                    "endOffset": 125042
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1721,
-                    "startColumn": 4,
-                    "startOffset": 125047,
-                    "endColumn": 63,
-                    "endOffset": 125106
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1722,
-                    "startColumn": 4,
-                    "startOffset": 125111,
-                    "endLine": 1725,
+                    "startOffset": 124981,
+                    "endLine": 1723,
                     "endColumn": 12,
-                    "endOffset": 125310
+                    "endOffset": 125180
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5765,11 +5765,11 @@
             },
             {
                 "to": {
-                    "startLine": 1726,
+                    "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 125315,
+                    "startOffset": 125185,
                     "endColumn": 68,
-                    "endOffset": 125379
+                    "endOffset": 125249
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5777,12 +5777,12 @@
             },
             {
                 "to": {
-                    "startLine": 1727,
+                    "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 125384,
-                    "endLine": 1730,
+                    "startOffset": 125254,
+                    "endLine": 1728,
                     "endColumn": 12,
-                    "endOffset": 125582
+                    "endOffset": 125452
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5790,11 +5790,24 @@
             },
             {
                 "to": {
-                    "startLine": 1731,
+                    "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 125587,
+                    "startOffset": 125457,
                     "endColumn": 69,
-                    "endOffset": 125652
+                    "endOffset": 125522
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1730,
+                    "startColumn": 4,
+                    "startOffset": 125527,
+                    "endLine": 1731,
+                    "endColumn": 12,
+                    "endOffset": 125662
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5804,10 +5817,10 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 125657,
+                    "startOffset": 125667,
                     "endLine": 1733,
                     "endColumn": 12,
-                    "endOffset": 125792
+                    "endOffset": 125796
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5817,10 +5830,21 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 125797,
-                    "endLine": 1735,
-                    "endColumn": 12,
-                    "endOffset": 125926
+                    "startOffset": 125801,
+                    "endColumn": 95,
+                    "endOffset": 125892
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1735,
+                    "startColumn": 4,
+                    "startOffset": 125897,
+                    "endColumn": 111,
+                    "endOffset": 126004
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5830,9 +5854,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 125931,
-                    "endColumn": 95,
-                    "endOffset": 126022
+                    "startOffset": 126009,
+                    "endColumn": 99,
+                    "endOffset": 126104
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5842,9 +5866,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 126027,
-                    "endColumn": 111,
-                    "endOffset": 126134
+                    "startOffset": 126109,
+                    "endColumn": 115,
+                    "endOffset": 126220
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5854,9 +5878,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 126139,
-                    "endColumn": 99,
-                    "endOffset": 126234
+                    "startOffset": 126225,
+                    "endColumn": 95,
+                    "endOffset": 126316
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5866,9 +5890,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 126239,
-                    "endColumn": 115,
-                    "endOffset": 126350
+                    "startOffset": 126321,
+                    "endColumn": 111,
+                    "endOffset": 126428
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5878,21 +5902,10 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 126355,
-                    "endColumn": 95,
-                    "endOffset": 126446
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1741,
-                    "startColumn": 4,
-                    "startOffset": 126451,
-                    "endColumn": 111,
-                    "endOffset": 126558
+                    "startOffset": 126433,
+                    "endLine": 1741,
+                    "endColumn": 12,
+                    "endOffset": 126568
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5902,10 +5915,9 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 126563,
-                    "endLine": 1743,
-                    "endColumn": 12,
-                    "endOffset": 126698
+                    "startOffset": 126573,
+                    "endColumn": 135,
+                    "endOffset": 126704
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5913,11 +5925,12 @@
             },
             {
                 "to": {
-                    "startLine": 1744,
+                    "startLine": 1743,
                     "startColumn": 4,
-                    "startOffset": 126703,
-                    "endColumn": 135,
-                    "endOffset": 126834
+                    "startOffset": 126709,
+                    "endLine": 1744,
+                    "endColumn": 12,
+                    "endOffset": 126868
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5927,9 +5940,8 @@
                 "to": {
                     "startLine": 1745,
                     "startColumn": 4,
-                    "startOffset": 126839,
-                    "endLine": 1746,
-                    "endColumn": 12,
+                    "startOffset": 126873,
+                    "endColumn": 129,
                     "endOffset": 126998
                 },
                 "from": {
@@ -5938,11 +5950,12 @@
             },
             {
                 "to": {
-                    "startLine": 1747,
+                    "startLine": 1746,
                     "startColumn": 4,
                     "startOffset": 127003,
-                    "endColumn": 129,
-                    "endOffset": 127128
+                    "endLine": 1747,
+                    "endColumn": 12,
+                    "endOffset": 127156
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5952,10 +5965,10 @@
                 "to": {
                     "startLine": 1748,
                     "startColumn": 4,
-                    "startOffset": 127133,
+                    "startOffset": 127161,
                     "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 127286
+                    "endOffset": 127306
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5965,10 +5978,9 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 127291,
-                    "endLine": 1751,
-                    "endColumn": 12,
-                    "endOffset": 127436
+                    "startOffset": 127311,
+                    "endColumn": 140,
+                    "endOffset": 127447
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5976,11 +5988,12 @@
             },
             {
                 "to": {
-                    "startLine": 1752,
+                    "startLine": 1751,
                     "startColumn": 4,
-                    "startOffset": 127441,
-                    "endColumn": 140,
-                    "endOffset": 127577
+                    "startOffset": 127452,
+                    "endLine": 1752,
+                    "endColumn": 12,
+                    "endOffset": 127591
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -5990,10 +6003,21 @@
                 "to": {
                     "startLine": 1753,
                     "startColumn": 4,
-                    "startOffset": 127582,
-                    "endLine": 1754,
-                    "endColumn": 12,
-                    "endOffset": 127721
+                    "startOffset": 127596,
+                    "endColumn": 134,
+                    "endOffset": 127726
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1754,
+                    "startColumn": 4,
+                    "startOffset": 127731,
+                    "endColumn": 111,
+                    "endOffset": 127838
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6003,9 +6027,9 @@
                 "to": {
                     "startLine": 1755,
                     "startColumn": 4,
-                    "startOffset": 127726,
-                    "endColumn": 134,
-                    "endOffset": 127856
+                    "startOffset": 127843,
+                    "endColumn": 149,
+                    "endOffset": 127988
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6015,9 +6039,9 @@
                 "to": {
                     "startLine": 1756,
                     "startColumn": 4,
-                    "startOffset": 127861,
-                    "endColumn": 111,
-                    "endOffset": 127968
+                    "startOffset": 127993,
+                    "endColumn": 127,
+                    "endOffset": 128116
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6027,9 +6051,9 @@
                 "to": {
                     "startLine": 1757,
                     "startColumn": 4,
-                    "startOffset": 127973,
-                    "endColumn": 149,
-                    "endOffset": 128118
+                    "startOffset": 128121,
+                    "endColumn": 127,
+                    "endOffset": 128244
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6039,21 +6063,10 @@
                 "to": {
                     "startLine": 1758,
                     "startColumn": 4,
-                    "startOffset": 128123,
-                    "endColumn": 127,
-                    "endOffset": 128246
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1759,
-                    "startColumn": 4,
-                    "startOffset": 128251,
-                    "endColumn": 127,
-                    "endOffset": 128374
+                    "startOffset": 128249,
+                    "endLine": 1759,
+                    "endColumn": 12,
+                    "endOffset": 128380
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6063,10 +6076,9 @@
                 "to": {
                     "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 128379,
-                    "endLine": 1761,
-                    "endColumn": 12,
-                    "endOffset": 128510
+                    "startOffset": 128385,
+                    "endColumn": 131,
+                    "endOffset": 128512
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6074,10 +6086,10 @@
             },
             {
                 "to": {
-                    "startLine": 1762,
+                    "startLine": 1761,
                     "startColumn": 4,
-                    "startOffset": 128515,
-                    "endColumn": 131,
+                    "startOffset": 128517,
+                    "endColumn": 129,
                     "endOffset": 128642
                 },
                 "from": {
@@ -6086,7 +6098,7 @@
             },
             {
                 "to": {
-                    "startLine": 1763,
+                    "startLine": 1762,
                     "startColumn": 4,
                     "startOffset": 128647,
                     "endColumn": 129,
@@ -6098,11 +6110,23 @@
             },
             {
                 "to": {
-                    "startLine": 1764,
+                    "startLine": 1763,
                     "startColumn": 4,
                     "startOffset": 128777,
-                    "endColumn": 129,
-                    "endOffset": 128902
+                    "endColumn": 111,
+                    "endOffset": 128884
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1764,
+                    "startColumn": 4,
+                    "startOffset": 128889,
+                    "endColumn": 139,
+                    "endOffset": 129024
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6112,9 +6136,9 @@
                 "to": {
                     "startLine": 1765,
                     "startColumn": 4,
-                    "startOffset": 128907,
-                    "endColumn": 111,
-                    "endOffset": 129014
+                    "startOffset": 129029,
+                    "endColumn": 67,
+                    "endOffset": 129092
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6124,9 +6148,9 @@
                 "to": {
                     "startLine": 1766,
                     "startColumn": 4,
-                    "startOffset": 129019,
-                    "endColumn": 139,
-                    "endOffset": 129154
+                    "startOffset": 129097,
+                    "endColumn": 72,
+                    "endOffset": 129165
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6136,9 +6160,9 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 129159,
-                    "endColumn": 67,
-                    "endOffset": 129222
+                    "startOffset": 129170,
+                    "endColumn": 73,
+                    "endOffset": 129239
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6148,9 +6172,9 @@
                 "to": {
                     "startLine": 1768,
                     "startColumn": 4,
-                    "startOffset": 129227,
+                    "startOffset": 129244,
                     "endColumn": 72,
-                    "endOffset": 129295
+                    "endOffset": 129312
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6160,9 +6184,9 @@
                 "to": {
                     "startLine": 1769,
                     "startColumn": 4,
-                    "startOffset": 129300,
+                    "startOffset": 129317,
                     "endColumn": 73,
-                    "endOffset": 129369
+                    "endOffset": 129386
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6172,21 +6196,10 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 129374,
-                    "endColumn": 72,
-                    "endOffset": 129442
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1771,
-                    "startColumn": 4,
-                    "startOffset": 129447,
-                    "endColumn": 73,
-                    "endOffset": 129516
+                    "startOffset": 129391,
+                    "endLine": 1771,
+                    "endColumn": 12,
+                    "endOffset": 129532
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6196,10 +6209,10 @@
                 "to": {
                     "startLine": 1772,
                     "startColumn": 4,
-                    "startOffset": 129521,
+                    "startOffset": 129537,
                     "endLine": 1773,
                     "endColumn": 12,
-                    "endOffset": 129662
+                    "endOffset": 129676
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6209,10 +6222,10 @@
                 "to": {
                     "startLine": 1774,
                     "startColumn": 4,
-                    "startOffset": 129667,
+                    "startOffset": 129681,
                     "endLine": 1775,
                     "endColumn": 12,
-                    "endOffset": 129806
+                    "endOffset": 129814
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6222,10 +6235,21 @@
                 "to": {
                     "startLine": 1776,
                     "startColumn": 4,
-                    "startOffset": 129811,
-                    "endLine": 1777,
-                    "endColumn": 12,
-                    "endOffset": 129944
+                    "startOffset": 129819,
+                    "endColumn": 65,
+                    "endOffset": 129880
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1777,
+                    "startColumn": 4,
+                    "startOffset": 129885,
+                    "endColumn": 89,
+                    "endOffset": 129970
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6235,9 +6259,9 @@
                 "to": {
                     "startLine": 1778,
                     "startColumn": 4,
-                    "startOffset": 129949,
-                    "endColumn": 65,
-                    "endOffset": 130010
+                    "startOffset": 129975,
+                    "endColumn": 75,
+                    "endOffset": 130046
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6247,9 +6271,9 @@
                 "to": {
                     "startLine": 1779,
                     "startColumn": 4,
-                    "startOffset": 130015,
-                    "endColumn": 89,
-                    "endOffset": 130100
+                    "startOffset": 130051,
+                    "endColumn": 103,
+                    "endOffset": 130150
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6259,9 +6283,9 @@
                 "to": {
                     "startLine": 1780,
                     "startColumn": 4,
-                    "startOffset": 130105,
-                    "endColumn": 75,
-                    "endOffset": 130176
+                    "startOffset": 130155,
+                    "endColumn": 89,
+                    "endOffset": 130240
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6271,9 +6295,9 @@
                 "to": {
                     "startLine": 1781,
                     "startColumn": 4,
-                    "startOffset": 130181,
-                    "endColumn": 103,
-                    "endOffset": 130280
+                    "startOffset": 130245,
+                    "endColumn": 101,
+                    "endOffset": 130342
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6283,9 +6307,9 @@
                 "to": {
                     "startLine": 1782,
                     "startColumn": 4,
-                    "startOffset": 130285,
-                    "endColumn": 89,
-                    "endOffset": 130370
+                    "startOffset": 130347,
+                    "endColumn": 107,
+                    "endOffset": 130450
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6295,9 +6319,9 @@
                 "to": {
                     "startLine": 1783,
                     "startColumn": 4,
-                    "startOffset": 130375,
-                    "endColumn": 101,
-                    "endOffset": 130472
+                    "startOffset": 130455,
+                    "endColumn": 107,
+                    "endOffset": 130558
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6307,9 +6331,9 @@
                 "to": {
                     "startLine": 1784,
                     "startColumn": 4,
-                    "startOffset": 130477,
-                    "endColumn": 107,
-                    "endOffset": 130580
+                    "startOffset": 130563,
+                    "endColumn": 99,
+                    "endOffset": 130658
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6319,9 +6343,9 @@
                 "to": {
                     "startLine": 1785,
                     "startColumn": 4,
-                    "startOffset": 130585,
-                    "endColumn": 107,
-                    "endOffset": 130688
+                    "startOffset": 130663,
+                    "endColumn": 79,
+                    "endOffset": 130738
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6331,9 +6355,9 @@
                 "to": {
                     "startLine": 1786,
                     "startColumn": 4,
-                    "startOffset": 130693,
-                    "endColumn": 99,
-                    "endOffset": 130788
+                    "startOffset": 130743,
+                    "endColumn": 91,
+                    "endOffset": 130830
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6343,9 +6367,9 @@
                 "to": {
                     "startLine": 1787,
                     "startColumn": 4,
-                    "startOffset": 130793,
-                    "endColumn": 79,
-                    "endOffset": 130868
+                    "startOffset": 130835,
+                    "endColumn": 97,
+                    "endOffset": 130928
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6355,21 +6379,10 @@
                 "to": {
                     "startLine": 1788,
                     "startColumn": 4,
-                    "startOffset": 130873,
-                    "endColumn": 91,
-                    "endOffset": 130960
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1789,
-                    "startColumn": 4,
-                    "startOffset": 130965,
-                    "endColumn": 97,
-                    "endOffset": 131058
+                    "startOffset": 130933,
+                    "endLine": 1789,
+                    "endColumn": 12,
+                    "endOffset": 131038
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6379,10 +6392,21 @@
                 "to": {
                     "startLine": 1790,
                     "startColumn": 4,
-                    "startOffset": 131063,
-                    "endLine": 1791,
-                    "endColumn": 12,
-                    "endOffset": 131168
+                    "startOffset": 131043,
+                    "endColumn": 77,
+                    "endOffset": 131116
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1791,
+                    "startColumn": 4,
+                    "startOffset": 131121,
+                    "endColumn": 105,
+                    "endOffset": 131222
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6392,9 +6416,9 @@
                 "to": {
                     "startLine": 1792,
                     "startColumn": 4,
-                    "startOffset": 131173,
-                    "endColumn": 77,
-                    "endOffset": 131246
+                    "startOffset": 131227,
+                    "endColumn": 91,
+                    "endOffset": 131314
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6404,9 +6428,9 @@
                 "to": {
                     "startLine": 1793,
                     "startColumn": 4,
-                    "startOffset": 131251,
-                    "endColumn": 105,
-                    "endOffset": 131352
+                    "startOffset": 131319,
+                    "endColumn": 103,
+                    "endOffset": 131418
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6416,9 +6440,9 @@
                 "to": {
                     "startLine": 1794,
                     "startColumn": 4,
-                    "startOffset": 131357,
-                    "endColumn": 91,
-                    "endOffset": 131444
+                    "startOffset": 131423,
+                    "endColumn": 109,
+                    "endOffset": 131528
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6428,21 +6452,10 @@
                 "to": {
                     "startLine": 1795,
                     "startColumn": 4,
-                    "startOffset": 131449,
-                    "endColumn": 103,
-                    "endOffset": 131548
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1796,
-                    "startColumn": 4,
-                    "startOffset": 131553,
-                    "endColumn": 109,
-                    "endOffset": 131658
+                    "startOffset": 131533,
+                    "endLine": 1796,
+                    "endColumn": 12,
+                    "endOffset": 131650
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6452,10 +6465,10 @@
                 "to": {
                     "startLine": 1797,
                     "startColumn": 4,
-                    "startOffset": 131663,
-                    "endLine": 1798,
+                    "startOffset": 131655,
+                    "endLine": 1800,
                     "endColumn": 12,
-                    "endOffset": 131780
+                    "endOffset": 131813
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6463,12 +6476,12 @@
             },
             {
                 "to": {
-                    "startLine": 1799,
+                    "startLine": 1801,
                     "startColumn": 4,
-                    "startOffset": 131785,
-                    "endLine": 1802,
+                    "startOffset": 131818,
+                    "endLine": 1804,
                     "endColumn": 12,
-                    "endOffset": 131943
+                    "endOffset": 131970
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6476,12 +6489,23 @@
             },
             {
                 "to": {
-                    "startLine": 1803,
+                    "startLine": 1805,
                     "startColumn": 4,
-                    "startOffset": 131948,
-                    "endLine": 1806,
-                    "endColumn": 12,
-                    "endOffset": 132100
+                    "startOffset": 131975,
+                    "endColumn": 79,
+                    "endOffset": 132050
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1806,
+                    "startColumn": 4,
+                    "startOffset": 132055,
+                    "endColumn": 99,
+                    "endOffset": 132150
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6491,9 +6515,9 @@
                 "to": {
                     "startLine": 1807,
                     "startColumn": 4,
-                    "startOffset": 132105,
-                    "endColumn": 79,
-                    "endOffset": 132180
+                    "startOffset": 132155,
+                    "endColumn": 89,
+                    "endOffset": 132240
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6503,9 +6527,9 @@
                 "to": {
                     "startLine": 1808,
                     "startColumn": 4,
-                    "startOffset": 132185,
-                    "endColumn": 99,
-                    "endOffset": 132280
+                    "startOffset": 132245,
+                    "endColumn": 109,
+                    "endOffset": 132350
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6515,9 +6539,9 @@
                 "to": {
                     "startLine": 1809,
                     "startColumn": 4,
-                    "startOffset": 132285,
-                    "endColumn": 89,
-                    "endOffset": 132370
+                    "startOffset": 132355,
+                    "endColumn": 93,
+                    "endOffset": 132444
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6527,9 +6551,9 @@
                 "to": {
                     "startLine": 1810,
                     "startColumn": 4,
-                    "startOffset": 132375,
-                    "endColumn": 109,
-                    "endOffset": 132480
+                    "startOffset": 132449,
+                    "endColumn": 105,
+                    "endOffset": 132550
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6539,9 +6563,9 @@
                 "to": {
                     "startLine": 1811,
                     "startColumn": 4,
-                    "startOffset": 132485,
-                    "endColumn": 93,
-                    "endOffset": 132574
+                    "startOffset": 132555,
+                    "endColumn": 91,
+                    "endOffset": 132642
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6551,21 +6575,10 @@
                 "to": {
                     "startLine": 1812,
                     "startColumn": 4,
-                    "startOffset": 132579,
-                    "endColumn": 105,
-                    "endOffset": 132680
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1813,
-                    "startColumn": 4,
-                    "startOffset": 132685,
-                    "endColumn": 91,
-                    "endOffset": 132772
+                    "startOffset": 132647,
+                    "endLine": 1813,
+                    "endColumn": 12,
+                    "endOffset": 132742
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6575,10 +6588,10 @@
                 "to": {
                     "startLine": 1814,
                     "startColumn": 4,
-                    "startOffset": 132777,
+                    "startOffset": 132747,
                     "endLine": 1815,
                     "endColumn": 12,
-                    "endOffset": 132872
+                    "endOffset": 132854
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6588,10 +6601,10 @@
                 "to": {
                     "startLine": 1816,
                     "startColumn": 4,
-                    "startOffset": 132877,
+                    "startOffset": 132859,
                     "endLine": 1817,
                     "endColumn": 12,
-                    "endOffset": 132984
+                    "endOffset": 132968
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6601,10 +6614,10 @@
                 "to": {
                     "startLine": 1818,
                     "startColumn": 4,
-                    "startOffset": 132989,
+                    "startOffset": 132973,
                     "endLine": 1819,
                     "endColumn": 12,
-                    "endOffset": 133098
+                    "endOffset": 133084
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6614,10 +6627,10 @@
                 "to": {
                     "startLine": 1820,
                     "startColumn": 4,
-                    "startOffset": 133103,
+                    "startOffset": 133089,
                     "endLine": 1821,
                     "endColumn": 12,
-                    "endOffset": 133214
+                    "endOffset": 133200
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6627,10 +6640,21 @@
                 "to": {
                     "startLine": 1822,
                     "startColumn": 4,
-                    "startOffset": 133219,
-                    "endLine": 1823,
-                    "endColumn": 12,
-                    "endOffset": 133330
+                    "startOffset": 133205,
+                    "endColumn": 93,
+                    "endOffset": 133294
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1823,
+                    "startColumn": 4,
+                    "startOffset": 133299,
+                    "endColumn": 113,
+                    "endOffset": 133408
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6640,9 +6664,9 @@
                 "to": {
                     "startLine": 1824,
                     "startColumn": 4,
-                    "startOffset": 133335,
-                    "endColumn": 93,
-                    "endOffset": 133424
+                    "startOffset": 133413,
+                    "endColumn": 111,
+                    "endOffset": 133520
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6652,21 +6676,10 @@
                 "to": {
                     "startLine": 1825,
                     "startColumn": 4,
-                    "startOffset": 133429,
-                    "endColumn": 113,
-                    "endOffset": 133538
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1826,
-                    "startColumn": 4,
-                    "startOffset": 133543,
-                    "endColumn": 111,
-                    "endOffset": 133650
+                    "startOffset": 133525,
+                    "endLine": 1826,
+                    "endColumn": 12,
+                    "endOffset": 133622
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6676,10 +6689,10 @@
                 "to": {
                     "startLine": 1827,
                     "startColumn": 4,
-                    "startOffset": 133655,
+                    "startOffset": 133627,
                     "endLine": 1828,
                     "endColumn": 12,
-                    "endOffset": 133752
+                    "endOffset": 133742
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6689,10 +6702,10 @@
                 "to": {
                     "startLine": 1829,
                     "startColumn": 4,
-                    "startOffset": 133757,
+                    "startOffset": 133747,
                     "endLine": 1830,
                     "endColumn": 12,
-                    "endOffset": 133872
+                    "endOffset": 133864
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6702,10 +6715,21 @@
                 "to": {
                     "startLine": 1831,
                     "startColumn": 4,
-                    "startOffset": 133877,
-                    "endLine": 1832,
-                    "endColumn": 12,
-                    "endOffset": 133994
+                    "startOffset": 133869,
+                    "endColumn": 81,
+                    "endOffset": 133946
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1832,
+                    "startColumn": 4,
+                    "startOffset": 133951,
+                    "endColumn": 103,
+                    "endOffset": 134050
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6715,9 +6739,9 @@
                 "to": {
                     "startLine": 1833,
                     "startColumn": 4,
-                    "startOffset": 133999,
-                    "endColumn": 81,
-                    "endOffset": 134076
+                    "startOffset": 134055,
+                    "endColumn": 119,
+                    "endOffset": 134170
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6727,9 +6751,9 @@
                 "to": {
                     "startLine": 1834,
                     "startColumn": 4,
-                    "startOffset": 134081,
-                    "endColumn": 103,
-                    "endOffset": 134180
+                    "startOffset": 134175,
+                    "endColumn": 125,
+                    "endOffset": 134296
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6739,9 +6763,9 @@
                 "to": {
                     "startLine": 1835,
                     "startColumn": 4,
-                    "startOffset": 134185,
-                    "endColumn": 119,
-                    "endOffset": 134300
+                    "startOffset": 134301,
+                    "endColumn": 97,
+                    "endOffset": 134394
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6751,9 +6775,9 @@
                 "to": {
                     "startLine": 1836,
                     "startColumn": 4,
-                    "startOffset": 134305,
-                    "endColumn": 125,
-                    "endOffset": 134426
+                    "startOffset": 134399,
+                    "endColumn": 93,
+                    "endOffset": 134488
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6763,9 +6787,9 @@
                 "to": {
                     "startLine": 1837,
                     "startColumn": 4,
-                    "startOffset": 134431,
-                    "endColumn": 97,
-                    "endOffset": 134524
+                    "startOffset": 134493,
+                    "endColumn": 87,
+                    "endOffset": 134576
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6775,9 +6799,9 @@
                 "to": {
                     "startLine": 1838,
                     "startColumn": 4,
-                    "startOffset": 134529,
-                    "endColumn": 93,
-                    "endOffset": 134618
+                    "startOffset": 134581,
+                    "endColumn": 111,
+                    "endOffset": 134688
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6787,9 +6811,9 @@
                 "to": {
                     "startLine": 1839,
                     "startColumn": 4,
-                    "startOffset": 134623,
-                    "endColumn": 87,
-                    "endOffset": 134706
+                    "startOffset": 134693,
+                    "endColumn": 115,
+                    "endOffset": 134804
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6799,9 +6823,9 @@
                 "to": {
                     "startLine": 1840,
                     "startColumn": 4,
-                    "startOffset": 134711,
-                    "endColumn": 111,
-                    "endOffset": 134818
+                    "startOffset": 134809,
+                    "endColumn": 121,
+                    "endOffset": 134926
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6811,9 +6835,9 @@
                 "to": {
                     "startLine": 1841,
                     "startColumn": 4,
-                    "startOffset": 134823,
-                    "endColumn": 115,
-                    "endOffset": 134934
+                    "startOffset": 134931,
+                    "endColumn": 111,
+                    "endOffset": 135038
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6823,34 +6847,34 @@
                 "to": {
                     "startLine": 1842,
                     "startColumn": 4,
-                    "startOffset": 134939,
-                    "endColumn": 121,
-                    "endOffset": 135056
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1843,
-                    "startColumn": 4,
-                    "startOffset": 135061,
-                    "endColumn": 111,
-                    "endOffset": 135168
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1844,
-                    "startColumn": 4,
-                    "startOffset": 135173,
-                    "endLine": 1846,
+                    "startOffset": 135043,
+                    "endLine": 1844,
                     "endColumn": 12,
-                    "endOffset": 135343
+                    "endOffset": 135213
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1845,
+                    "startColumn": 4,
+                    "startOffset": 135218,
+                    "endColumn": 115,
+                    "endOffset": 135329
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1846,
+                    "startColumn": 4,
+                    "startOffset": 135334,
+                    "endColumn": 85,
+                    "endOffset": 135415
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6860,9 +6884,9 @@
                 "to": {
                     "startLine": 1847,
                     "startColumn": 4,
-                    "startOffset": 135348,
-                    "endColumn": 115,
-                    "endOffset": 135459
+                    "startOffset": 135420,
+                    "endColumn": 91,
+                    "endOffset": 135507
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6872,21 +6896,10 @@
                 "to": {
                     "startLine": 1848,
                     "startColumn": 4,
-                    "startOffset": 135464,
-                    "endColumn": 85,
-                    "endOffset": 135545
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1849,
-                    "startColumn": 4,
-                    "startOffset": 135550,
-                    "endColumn": 91,
-                    "endOffset": 135637
+                    "startOffset": 135512,
+                    "endLine": 1849,
+                    "endColumn": 12,
+                    "endOffset": 135619
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6896,10 +6909,10 @@
                 "to": {
                     "startLine": 1850,
                     "startColumn": 4,
-                    "startOffset": 135642,
+                    "startOffset": 135624,
                     "endLine": 1851,
                     "endColumn": 12,
-                    "endOffset": 135749
+                    "endOffset": 135743
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6909,10 +6922,9 @@
                 "to": {
                     "startLine": 1852,
                     "startColumn": 4,
-                    "startOffset": 135754,
-                    "endLine": 1853,
-                    "endColumn": 12,
-                    "endOffset": 135873
+                    "startOffset": 135748,
+                    "endColumn": 66,
+                    "endOffset": 135810
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6920,11 +6932,12 @@
             },
             {
                 "to": {
-                    "startLine": 1854,
+                    "startLine": 1853,
                     "startColumn": 4,
-                    "startOffset": 135878,
-                    "endColumn": 66,
-                    "endOffset": 135940
+                    "startOffset": 135815,
+                    "endLine": 1854,
+                    "endColumn": 12,
+                    "endOffset": 135936
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6934,10 +6947,9 @@
                 "to": {
                     "startLine": 1855,
                     "startColumn": 4,
-                    "startOffset": 135945,
-                    "endLine": 1856,
-                    "endColumn": 12,
-                    "endOffset": 136066
+                    "startOffset": 135941,
+                    "endColumn": 67,
+                    "endOffset": 136004
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6945,11 +6957,12 @@
             },
             {
                 "to": {
-                    "startLine": 1857,
+                    "startLine": 1856,
                     "startColumn": 4,
-                    "startOffset": 136071,
-                    "endColumn": 67,
-                    "endOffset": 136134
+                    "startOffset": 136009,
+                    "endLine": 1857,
+                    "endColumn": 12,
+                    "endOffset": 136132
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6959,10 +6972,10 @@
                 "to": {
                     "startLine": 1858,
                     "startColumn": 4,
-                    "startOffset": 136139,
+                    "startOffset": 136137,
                     "endLine": 1859,
                     "endColumn": 12,
-                    "endOffset": 136262
+                    "endOffset": 136276
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6972,10 +6985,10 @@
                 "to": {
                     "startLine": 1860,
                     "startColumn": 4,
-                    "startOffset": 136267,
+                    "startOffset": 136281,
                     "endLine": 1861,
                     "endColumn": 12,
-                    "endOffset": 136406
+                    "endOffset": 136404
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6985,10 +6998,21 @@
                 "to": {
                     "startLine": 1862,
                     "startColumn": 4,
-                    "startOffset": 136411,
-                    "endLine": 1863,
-                    "endColumn": 12,
-                    "endOffset": 136534
+                    "startOffset": 136409,
+                    "endColumn": 68,
+                    "endOffset": 136473
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1863,
+                    "startColumn": 4,
+                    "startOffset": 136478,
+                    "endColumn": 94,
+                    "endOffset": 136568
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -6998,9 +7022,9 @@
                 "to": {
                     "startLine": 1864,
                     "startColumn": 4,
-                    "startOffset": 136539,
-                    "endColumn": 68,
-                    "endOffset": 136603
+                    "startOffset": 136573,
+                    "endColumn": 114,
+                    "endOffset": 136683
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7010,9 +7034,9 @@
                 "to": {
                     "startLine": 1865,
                     "startColumn": 4,
-                    "startOffset": 136608,
-                    "endColumn": 94,
-                    "endOffset": 136698
+                    "startOffset": 136688,
+                    "endColumn": 112,
+                    "endOffset": 136796
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7022,9 +7046,9 @@
                 "to": {
                     "startLine": 1866,
                     "startColumn": 4,
-                    "startOffset": 136703,
-                    "endColumn": 114,
-                    "endOffset": 136813
+                    "startOffset": 136801,
+                    "endColumn": 98,
+                    "endOffset": 136895
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7034,9 +7058,9 @@
                 "to": {
                     "startLine": 1867,
                     "startColumn": 4,
-                    "startOffset": 136818,
-                    "endColumn": 112,
-                    "endOffset": 136926
+                    "startOffset": 136900,
+                    "endColumn": 108,
+                    "endOffset": 137004
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7046,9 +7070,9 @@
                 "to": {
                     "startLine": 1868,
                     "startColumn": 4,
-                    "startOffset": 136931,
-                    "endColumn": 98,
-                    "endOffset": 137025
+                    "startOffset": 137009,
+                    "endColumn": 110,
+                    "endOffset": 137115
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7058,9 +7082,9 @@
                 "to": {
                     "startLine": 1869,
                     "startColumn": 4,
-                    "startOffset": 137030,
-                    "endColumn": 108,
-                    "endOffset": 137134
+                    "startOffset": 137120,
+                    "endColumn": 110,
+                    "endOffset": 137226
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7070,9 +7094,9 @@
                 "to": {
                     "startLine": 1870,
                     "startColumn": 4,
-                    "startOffset": 137139,
-                    "endColumn": 110,
-                    "endOffset": 137245
+                    "startOffset": 137231,
+                    "endColumn": 100,
+                    "endOffset": 137327
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7082,9 +7106,9 @@
                 "to": {
                     "startLine": 1871,
                     "startColumn": 4,
-                    "startOffset": 137250,
-                    "endColumn": 110,
-                    "endOffset": 137356
+                    "startOffset": 137332,
+                    "endColumn": 104,
+                    "endOffset": 137432
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7094,9 +7118,9 @@
                 "to": {
                     "startLine": 1872,
                     "startColumn": 4,
-                    "startOffset": 137361,
-                    "endColumn": 100,
-                    "endOffset": 137457
+                    "startOffset": 137437,
+                    "endColumn": 99,
+                    "endOffset": 137532
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7106,20 +7130,9 @@
                 "to": {
                     "startLine": 1873,
                     "startColumn": 4,
-                    "startOffset": 137462,
-                    "endColumn": 104,
-                    "endOffset": 137562
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1874,
-                    "startColumn": 4,
-                    "startOffset": 137567,
-                    "endColumn": 99,
+                    "startOffset": 137537,
+                    "endLine": 1874,
+                    "endColumn": 12,
                     "endOffset": 137662
                 },
                 "from": {
@@ -7131,9 +7144,20 @@
                     "startLine": 1875,
                     "startColumn": 4,
                     "startOffset": 137667,
-                    "endLine": 1876,
-                    "endColumn": 12,
-                    "endOffset": 137792
+                    "endColumn": 90,
+                    "endOffset": 137753
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1876,
+                    "startColumn": 4,
+                    "startOffset": 137758,
+                    "endColumn": 122,
+                    "endOffset": 137876
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7143,9 +7167,9 @@
                 "to": {
                     "startLine": 1877,
                     "startColumn": 4,
-                    "startOffset": 137797,
-                    "endColumn": 90,
-                    "endOffset": 137883
+                    "startOffset": 137881,
+                    "endColumn": 93,
+                    "endOffset": 137970
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7155,21 +7179,10 @@
                 "to": {
                     "startLine": 1878,
                     "startColumn": 4,
-                    "startOffset": 137888,
-                    "endColumn": 122,
-                    "endOffset": 138006
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1879,
-                    "startColumn": 4,
-                    "startOffset": 138011,
-                    "endColumn": 93,
-                    "endOffset": 138100
+                    "startOffset": 137975,
+                    "endLine": 1879,
+                    "endColumn": 12,
+                    "endOffset": 138082
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7179,10 +7192,21 @@
                 "to": {
                     "startLine": 1880,
                     "startColumn": 4,
-                    "startOffset": 138105,
-                    "endLine": 1881,
-                    "endColumn": 12,
-                    "endOffset": 138212
+                    "startOffset": 138087,
+                    "endColumn": 85,
+                    "endOffset": 138168
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1881,
+                    "startColumn": 4,
+                    "startOffset": 138173,
+                    "endColumn": 103,
+                    "endOffset": 138272
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7192,9 +7216,9 @@
                 "to": {
                     "startLine": 1882,
                     "startColumn": 4,
-                    "startOffset": 138217,
-                    "endColumn": 85,
-                    "endOffset": 138298
+                    "startOffset": 138277,
+                    "endColumn": 95,
+                    "endOffset": 138368
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7204,9 +7228,9 @@
                 "to": {
                     "startLine": 1883,
                     "startColumn": 4,
-                    "startOffset": 138303,
-                    "endColumn": 103,
-                    "endOffset": 138402
+                    "startOffset": 138373,
+                    "endColumn": 74,
+                    "endOffset": 138443
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7216,9 +7240,9 @@
                 "to": {
                     "startLine": 1884,
                     "startColumn": 4,
-                    "startOffset": 138407,
-                    "endColumn": 95,
-                    "endOffset": 138498
+                    "startOffset": 138448,
+                    "endColumn": 69,
+                    "endOffset": 138513
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7228,9 +7252,9 @@
                 "to": {
                     "startLine": 1885,
                     "startColumn": 4,
-                    "startOffset": 138503,
-                    "endColumn": 74,
-                    "endOffset": 138573
+                    "startOffset": 138518,
+                    "endColumn": 87,
+                    "endOffset": 138601
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7240,21 +7264,10 @@
                 "to": {
                     "startLine": 1886,
                     "startColumn": 4,
-                    "startOffset": 138578,
-                    "endColumn": 69,
-                    "endOffset": 138643
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1887,
-                    "startColumn": 4,
-                    "startOffset": 138648,
-                    "endColumn": 87,
-                    "endOffset": 138731
+                    "startOffset": 138606,
+                    "endLine": 1887,
+                    "endColumn": 12,
+                    "endOffset": 138719
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7264,10 +7277,10 @@
                 "to": {
                     "startLine": 1888,
                     "startColumn": 4,
-                    "startOffset": 138736,
+                    "startOffset": 138724,
                     "endLine": 1889,
                     "endColumn": 12,
-                    "endOffset": 138849
+                    "endOffset": 138823
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7277,10 +7290,10 @@
                 "to": {
                     "startLine": 1890,
                     "startColumn": 4,
-                    "startOffset": 138854,
+                    "startOffset": 138828,
                     "endLine": 1891,
                     "endColumn": 12,
-                    "endOffset": 138953
+                    "endOffset": 138927
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7290,10 +7303,10 @@
                 "to": {
                     "startLine": 1892,
                     "startColumn": 4,
-                    "startOffset": 138958,
+                    "startOffset": 138932,
                     "endLine": 1893,
                     "endColumn": 12,
-                    "endOffset": 139057
+                    "endOffset": 139053
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7303,10 +7316,21 @@
                 "to": {
                     "startLine": 1894,
                     "startColumn": 4,
-                    "startOffset": 139062,
-                    "endLine": 1895,
-                    "endColumn": 12,
-                    "endOffset": 139183
+                    "startOffset": 139058,
+                    "endColumn": 87,
+                    "endOffset": 139141
+                },
+                "from": {
+                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1895,
+                    "startColumn": 4,
+                    "startOffset": 139146,
+                    "endColumn": 107,
+                    "endOffset": 139249
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7316,9 +7340,9 @@
                 "to": {
                     "startLine": 1896,
                     "startColumn": 4,
-                    "startOffset": 139188,
-                    "endColumn": 87,
-                    "endOffset": 139271
+                    "startOffset": 139254,
+                    "endColumn": 99,
+                    "endOffset": 139349
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7328,9 +7352,9 @@
                 "to": {
                     "startLine": 1897,
                     "startColumn": 4,
-                    "startOffset": 139276,
-                    "endColumn": 107,
-                    "endOffset": 139379
+                    "startOffset": 139354,
+                    "endColumn": 89,
+                    "endOffset": 139439
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7340,9 +7364,9 @@
                 "to": {
                     "startLine": 1898,
                     "startColumn": 4,
-                    "startOffset": 139384,
-                    "endColumn": 99,
-                    "endOffset": 139479
+                    "startOffset": 139444,
+                    "endColumn": 109,
+                    "endOffset": 139549
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7352,9 +7376,9 @@
                 "to": {
                     "startLine": 1899,
                     "startColumn": 4,
-                    "startOffset": 139484,
-                    "endColumn": 89,
-                    "endOffset": 139569
+                    "startOffset": 139554,
+                    "endColumn": 83,
+                    "endOffset": 139633
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7364,9 +7388,9 @@
                 "to": {
                     "startLine": 1900,
                     "startColumn": 4,
-                    "startOffset": 139574,
-                    "endColumn": 109,
-                    "endOffset": 139679
+                    "startOffset": 139638,
+                    "endColumn": 101,
+                    "endOffset": 139735
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7376,9 +7400,9 @@
                 "to": {
                     "startLine": 1901,
                     "startColumn": 4,
-                    "startOffset": 139684,
+                    "startOffset": 139740,
                     "endColumn": 83,
-                    "endOffset": 139763
+                    "endOffset": 139819
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7388,9 +7412,9 @@
                 "to": {
                     "startLine": 1902,
                     "startColumn": 4,
-                    "startOffset": 139768,
-                    "endColumn": 101,
-                    "endOffset": 139865
+                    "startOffset": 139824,
+                    "endColumn": 53,
+                    "endOffset": 139873
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7400,9 +7424,9 @@
                 "to": {
                     "startLine": 1903,
                     "startColumn": 4,
-                    "startOffset": 139870,
-                    "endColumn": 83,
-                    "endOffset": 139949
+                    "startOffset": 139878,
+                    "endColumn": 63,
+                    "endOffset": 139937
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7412,9 +7436,9 @@
                 "to": {
                     "startLine": 1904,
                     "startColumn": 4,
-                    "startOffset": 139954,
-                    "endColumn": 53,
-                    "endOffset": 140003
+                    "startOffset": 139942,
+                    "endColumn": 105,
+                    "endOffset": 140043
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7424,9 +7448,9 @@
                 "to": {
                     "startLine": 1905,
                     "startColumn": 4,
-                    "startOffset": 140008,
-                    "endColumn": 63,
-                    "endOffset": 140067
+                    "startOffset": 140048,
+                    "endColumn": 109,
+                    "endOffset": 140153
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7436,9 +7460,9 @@
                 "to": {
                     "startLine": 1906,
                     "startColumn": 4,
-                    "startOffset": 140072,
-                    "endColumn": 105,
-                    "endOffset": 140173
+                    "startOffset": 140158,
+                    "endColumn": 83,
+                    "endOffset": 140237
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
@@ -7448,33 +7472,9 @@
                 "to": {
                     "startLine": 1907,
                     "startColumn": 4,
-                    "startOffset": 140178,
-                    "endColumn": 109,
-                    "endOffset": 140283
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1908,
-                    "startColumn": 4,
-                    "startOffset": 140288,
-                    "endColumn": 83,
-                    "endOffset": 140367
-                },
-                "from": {
-                    "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1909,
-                    "startColumn": 4,
-                    "startOffset": 140372,
+                    "startOffset": 140242,
                     "endColumn": 119,
-                    "endOffset": 140487
+                    "endOffset": 140357
                 },
                 "from": {
                     "file": "/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/res/values/values.xml"
