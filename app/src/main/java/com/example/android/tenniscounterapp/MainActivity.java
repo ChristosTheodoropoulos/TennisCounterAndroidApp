@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
      * When i rotate the device to landscape, the Activity is recreated again.
      * So by default the app doesn't remember the values of the variables I am using.
      * I must implement onSaveInstanceState() and add key-value pairs to the Bundle object.
-     * @param savedInstanceState: Save additional state information for my activity
+     * @param savedInstanceState: Save additional state information for my activity.
      */
     @Override
     protected void onSaveInstanceState(Bundle savedInstanceState) {

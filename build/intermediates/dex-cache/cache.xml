@@ -3,6 +3,87 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/a3f47d55c65a29158c6159805050cc31c79b0ed6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21a33c0c5dc8370f275dff69c8de7420880a2250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b94f35cf26810b1ec28f2cb6d453a71bf65d6f6f">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b3b4c5b940ae2182f6a51a679bfc67db0450b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/fd64f82be43c0c6f73bc465ef2bb25c00904145d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e49da0ece2df6170e54729ea935b26ef17201f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/45703da07ab08552dc5992960e609e671898e54d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_292a203752f459fee1f26e8294eba70202524354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/d4f4afc81877591aaabdfe88d875bc3657c32dc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e9f9a30e59f611c64fa95a7ef767bf37e060b18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/700c532313bac026dae5dc2eea6df0e90bb7be7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0335d87d3ee04ad08baa183d22ec44adf4e71cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/496553a9eec7d0a81c48a6631b72566a3a380f58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_444899f2a32cddb4d7074427039e1668f87015ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/d096d2d84dcaeb29452f3106c9d391372fb052e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1cfab3124f2d4dc2de21d1b2ea06b1e9cda7ea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/2344c939f8a5715dc52f21e1b48ff449cbf3a12d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c42c295b88cb82f24ae9d300beeebb44f34c3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +93,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/Christos_Theodoropoulos/.android/build-cache/a9f3ede50190adbb05c9ec46af6d5d59840efd60/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2c6c38f7bc4ad2fc2f097264ceba5999e615833f">
-        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b3b4c5b940ae2182f6a51a679bfc67db0450b70/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Christos_Theodoropoulos/AndroidStudioProjects/TennisCounterApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb6015db84d23f1f9f0a0bb70ad5b1d41e3ef4ee/classes.dex" />
     </item>
 
 </items>
